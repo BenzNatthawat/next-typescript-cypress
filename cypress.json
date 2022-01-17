@@ -1,0 +1,12 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "chromeWebSecurity": false,
+  "videoUploadOnPasses": false,
+  "testFiles": "**/*spec.{js,jsx,ts,tsx}",
+  "component": {
+    "componentFolder": "cypress/component",
+    "testFiles": "**/*spec.{js,jsx,ts,tsx}",
+    "viewportHeight": 500,
+    "viewportWidth": 700
+  }
+}
